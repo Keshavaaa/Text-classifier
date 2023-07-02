@@ -7,7 +7,7 @@ from sklearn import metrics
 from sklearn.utils import shuffle
 from sklearn.decomposition import TruncatedSVD
 
-# Step 1: Load the Dataset
+
 
 # Read the dataset using pandas (assuming the dataset is in CSV format)
 dataset_path = "path of the dataset"
